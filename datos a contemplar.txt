@@ -1,0 +1,9 @@
+en este caso usare como host, user y clave:
+[mi ip]
+root 
+Soing1214
+
+
+la base de datos mysql se guardara en /.../mysql_server8.0/data
+se guardara en un fichero del mismo nombre que la base de datos en este caso "data_base"
+cada tabla se guarda en un archivo distinto por lo que hay que respaldar el total de la carpeta
